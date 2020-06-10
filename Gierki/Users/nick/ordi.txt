@@ -1,0 +1,4 @@
+ordi
+Panstwa-Miasta 21 6 1 0 0 0 1
+Zgadnij-Kto-To?  4 14 14 15 -4
+Familiada 80 100 32 52
